@@ -3,4 +3,4 @@ hungry=input("are you hungry")
 if hungry=='yes':
     print("eat then")
 else:
-    print("work")
+    print("work then")
